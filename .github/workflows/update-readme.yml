@@ -1,14 +1,14 @@
-name: 🪄 Auto Update README with Latest Projects
+name: Auto Update README with Latest Projects
 
 on:
   schedule:
-    - cron: '0 3 * * 1'  # 每周一早上更新 (UTC 时间 3 点 = 北京时间 11 点)
+    - cron: '0 3 * * 1'  # 每周一早上更新
   workflow_dispatch:     # 手动触发
   push:
     branches: [ main ]
 
 permissions:
-  contents: write  # ✅ 允许 actions 写入仓库内容
+  contents: write   
 
 jobs:
   update-readme:
@@ -18,8 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ 确保使用有写权限的 token
-
+          token: ${{ secrets.GITHUB_TOKEN }}  
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
