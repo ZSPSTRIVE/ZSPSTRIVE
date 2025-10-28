@@ -55,13 +55,13 @@
 | 项目名 | 简介 | 技术栈 | Stars |
 |:--------|:------|:--------|:------|
 | 👤 [ZSPSTRIVE](https://github.com/ZSPSTRIVE/ZSPSTRIVE) | 暂无描述 | Python | ⭐ 0 |
+| 🚀 [SpringAI-langchain-StudyBot](https://github.com/ZSPSTRIVE/SpringAI-langchain-StudyBot) | 本科毕业设计基础上二次开发 采用 Spring Boot 和 Vue.js 技术栈，结合 La... | JavaScript | ⭐ 0 |
+| 🧩 [LangChain4j-study-java](https://github.com/ZSPSTRIVE/LangChain4j-study-java) | 基于 Java + Vue + AI 技术栈，集成 LangChain4j 框架，提供 AI ... | Vue | ⭐ 0 |
+| 🧠 [AI-tiku](https://github.com/ZSPSTRIVE/AI-tiku) | 本项目采用 Spring Boot 2.7.x、Vue 3、MySQL、Redis 和 Ela... | Java | ⭐ 1 |
 | ☁️ [CloudPix](https://github.com/ZSPSTRIVE/CloudPix) | 云图库是一个企业级的图片管理和协作平台，支持多用户协作、智能图片处理、空间管理等功能。本项目采... | Java | ⭐ 1 |
-| 🧠 [AI-tiku](https://github.com/ZSPSTRIVE/AI-tiku) | 1 | Java | ⭐ 1 |
-| 🧩 [LangChain4j-study-java](https://github.com/ZSPSTRIVE/LangChain4j-study-java) | 1 | Vue | ⭐ 0 |
 | 📈 [CARDON-AI-predict](https://github.com/ZSPSTRIVE/CARDON-AI-predict) | 1 | HTML | ⭐ 1 |
-| 🚀 [-Vue3-Node.js-emotion-record](https://github.com/ZSPSTRIVE/-Vue3-Node.js-emotion-record) | 情绪日记 vue 1. 使用vue3开发的每周心情记录，和心情统计项目。前端使用vue开发，后... | Vue | ⭐ 3 |
 
-> 🕒 最后更新: 2025-10-28 09:26:40 (UTC+8)
+> 🕒 最后更新: 2025-10-28 18:10:27 (UTC+8)
 
 <!-- PROJECTS-LIST:END -->
 
