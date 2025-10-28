@@ -29,10 +29,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 安装依赖
-      - name: Install dependencies
+      # 安装 PyGithub 依赖
+      - name: Install PyGithub
         run: |
-          pip install -r requirements.txt  # 使用 requirements.txt 管理依赖
+          pip install PyGithub
 
       # 运行更新脚本
       - name: Run update script
