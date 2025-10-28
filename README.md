@@ -9,7 +9,7 @@
 
 ---
 
-### 🧩 技术标签
+### 🚢技术标签
 
 #### 🏗️ 后端 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
@@ -19,13 +19,13 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff)
 
-#### ☁️ Cloud Native & Middleware  
+#### 🚠 Cloud Native & Middleware  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
 ![Pulsar](https://img.shields.io/badge/Pulsar-188FFF?logo=apachepulsar&logoColor=fff)
 ![Gateway](https://img.shields.io/badge/Spring%20Gateway-00BCD4?logo=spring&logoColor=fff)
 
-#### 🤖 AI & LLM  
+#### ✈️AI & LLM  
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-FFB300?logo=java&logoColor=fff)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)
 ![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=fff)
@@ -40,7 +40,7 @@
 
 ---
 
-### 🚀 代表项目
+### 🎊代表项目
 
 | 项目名 | 简介 | 技术栈 |
 |:--------|:------|:--------|
