@@ -1,7 +1,7 @@
 # 👋(*^ω^*)你好，我是 STRIVE
 
 🏢 后端 / AI 应用开发者  
-💻 专注于 **Java 全栈 + Spring Boot + 深度学习模型应用落地**  
+💻 专注于 **Java 全栈 + Spring Boot + 学习大模型应用落地**  
 🚀 热衷于打造智能化、高并发、高可用的产品系统  
 🧠 兴趣方向：AI 知识库、LangChain 应用、智能题库、生成式系统  
 🌱 正在研究 **LLM 应用框架（LangChain4j / Semantic Kernel）** 与 **AI Agent 架构设计**  
