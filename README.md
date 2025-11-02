@@ -23,20 +23,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-00A9E0?logo=apache&logoColor=fff)  
-阿里巴巴开源的分布式消息中间件，适合高吞吐、低延迟消息传递。
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
-容器编排工具，支持自动化部署、扩展和管理容器化应用。
 
 
 #### 🏗️ 文档生成 & 日志与监控
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=fff)  
-自动生成REST API文档，简化API设计和调用过程。
 ![SLF4J](https://img.shields.io/badge/SLF4J-009688?logo=log4j&logoColor=fff)  
-简化Java日志框架的统一接口，可以与Logback、Log4j等日志框架配合使用。
 ![Logback](https://img.shields.io/badge/Logback-008000?logo=logback&logoColor=fff)  
-常与SLF4J一起使用，提供高效的日志记录。
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff)  
-与Prometheus配合使用，用于可视化监控数据，帮助开发和运维人员快速响应问题。
 
 #### ✈️AI & LLM  
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-FFB300?logo=java&logoColor=fff)
@@ -97,9 +91,9 @@
 
 
 ### 🌐 更多内容
-- 📘 博客：....
+- 📘 博客：[CSDN 博客](https://blog.csdn.net/weixin_51634706?spm=1000.2115.3001.5343)
 
-- ⚙️ 兴趣方向：AI 系统落地化、Agent 框架优化、LLM + 后端融合架构  
+- ⚙️ 兴趣方向：Java后端、Agent 框架优化、LLM + 后端融合架构  
 
 > *Speak less, do more.* —— 行动是最好的表达。
 
