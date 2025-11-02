@@ -54,14 +54,14 @@
 
 | 项目名 | 简介 | 技术栈 | Stars |
 |:--------|:------|:--------|:------|
-| 👤 [ZSPSTRIVE](https://github.com/ZSPSTRIVE/ZSPSTRIVE) | 暂无描述 | Python | ⭐ 1 |
-| 🚀 [SpringAI-langchain-StudyBot](https://github.com/ZSPSTRIVE/SpringAI-langchain-StudyBot) | 本科毕业设计基础上二次开发 采用 Spring Boot 和 Vue.js 技术栈，结合 La... | Vue | ⭐ 1 |
-| 🧩 [LangChain4j-study-java](https://github.com/ZSPSTRIVE/LangChain4j-study-java) | 基于 Java + Vue + AI 技术栈，集成 LangChain4j 框架，提供 AI ... | Vue | ⭐ 1 |
+| 👤 [ZSPSTRIVE](https://github.com/ZSPSTRIVE/ZSPSTRIVE) | 暂无描述 | Python | ⭐ 2 |
+| 🧩 [LangChain4j-study-java](https://github.com/ZSPSTRIVE/LangChain4j-study-java) | 基于 Java + Vue + AI 技术栈，集成 LangChain4j 框架，提供 AI ... | Vue | ⭐ 2 |
+| 🚀 [SpringAI-langchain-StudyBot](https://github.com/ZSPSTRIVE/SpringAI-langchain-StudyBot) | 本科毕业设计基础上二次开发 采用 Spring Boot 和 Vue.js 技术栈，结合 La... | Vue | ⭐ 2 |
 | 🧠 [AI-tiku](https://github.com/ZSPSTRIVE/AI-tiku) | 本项目采用 Spring Boot 2.7.x、Vue 3、MySQL、Redis 和 Ela... | Java | ⭐ 2 |
 | ☁️ [CloudPix](https://github.com/ZSPSTRIVE/CloudPix) | 云图库是一个企业级的图片管理和协作平台，支持多用户协作、智能图片处理、空间管理等功能。本项目采... | Java | ⭐ 2 |
 | 📈 [CARDON-AI-predict](https://github.com/ZSPSTRIVE/CARDON-AI-predict) | 1 | HTML | ⭐ 2 |
 
-> 🕒 最后更新: 2025-10-30 19:04:35 (UTC+8)
+> 🕒 最后更新: 2025-11-02 11:30:21 (UTC+8)
 
 <!-- PROJECTS-LIST:END -->
 
