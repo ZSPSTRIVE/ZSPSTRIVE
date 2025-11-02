@@ -20,10 +20,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff)
 
 #### 🚠 Cloud Native & Middleware  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-00A9E0?logo=apache&logoColor=fff)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)![RocketMQ](https://img.shields.io/badge/RocketMQ-00A9E0?logo=apache&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
 
 
 #### 🏗️ 文档生成 & 日志与监控
