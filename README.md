@@ -22,8 +22,21 @@
 #### 🚠 Cloud Native & Middleware  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
-![Pulsar](https://img.shields.io/badge/Pulsar-188FFF?logo=apachepulsar&logoColor=fff)
-![Gateway](https://img.shields.io/badge/Spring%20Gateway-00BCD4?logo=spring&logoColor=fff)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-00A9E0?logo=apache&logoColor=fff)  
+阿里巴巴开源的分布式消息中间件，适合高吞吐、低延迟消息传递。
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
+容器编排工具，支持自动化部署、扩展和管理容器化应用。
+
+
+#### 🏗️ 文档生成 & 日志与监控
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=fff)  
+自动生成REST API文档，简化API设计和调用过程。
+![SLF4J](https://img.shields.io/badge/SLF4J-009688?logo=log4j&logoColor=fff)  
+简化Java日志框架的统一接口，可以与Logback、Log4j等日志框架配合使用。
+![Logback](https://img.shields.io/badge/Logback-008000?logo=logback&logoColor=fff)  
+常与SLF4J一起使用，提供高效的日志记录。
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff)  
+与Prometheus配合使用，用于可视化监控数据，帮助开发和运维人员快速响应问题。
 
 #### ✈️AI & LLM  
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-FFB300?logo=java&logoColor=fff)
